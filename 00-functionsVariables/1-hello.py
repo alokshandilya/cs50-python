@@ -24,6 +24,8 @@ name = input("What's your name? ")
 print(f"hello, {name}")
 
 # Demonstrates str functions
+# strip() is a built-in string method that removes whitespaces
+# title() is a built-in string method that capitalize first letter of each word
 name = input("What's your name? ").strip().title()
 print(f"hello, {name}")
 
