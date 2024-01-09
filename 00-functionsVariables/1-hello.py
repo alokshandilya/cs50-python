@@ -50,32 +50,32 @@ print(name)
 
 
 # Demonstrates defining a function with a parameter
-def hello1(to):
+def hello2(to):
     print("hello,", to)
 
 
 name = input("What's your name? ")
-hello1(name)
+hello2(name)
 print("#############################")
 
 
 # Demonstrates defining a function with a parameter with a default value
-def hello2(to="world"):
-    print("hello,", to)
+def hello3(par="world"):
+    print("hello,", par)
 
 
-hello2()
+hello3()
 name = input("What's your name? ")
-hello2(name)
+hello3(name)
 
 
 # Demonstrates defining a main function
 def main():
     name = input("What's your name? ")
-    hello3(name)
+    hello4(name)
 
 
-def hello3(to="world"):
+def hello4(to="world"):
     print("hello,", to)
 
 
