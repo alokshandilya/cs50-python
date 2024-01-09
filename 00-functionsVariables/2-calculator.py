@@ -41,11 +41,11 @@ y = float(input("What's y? "))
 print(round(x + y))
 
 # Demonstrates formatting with commas
-# TODO
 x = float(input("What's x? "))
 y = float(input("What's y? "))
 z = round(x + y)
-print(f"{z:,}")  # like 17,000,000
+# format a number with commas as thousand separators
+print(f"{z:,}")  # like 1,234,567,890
 
 # Demonstrates division
 # division with int also returns float
@@ -75,6 +75,8 @@ def main():
 
 def square(n):
     return n * n
+    # return n ** 2
+    # return pow(n, 2)
 
 
 main()
