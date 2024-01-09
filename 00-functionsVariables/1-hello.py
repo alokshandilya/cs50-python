@@ -25,12 +25,16 @@ print(f"hello, {name}")
 
 # Demonstrates str functions
 # strip() is a built-in string method that removes whitespaces
+# capitalize() is a built-in string method that capitalize first letter
 # title() is a built-in string method that capitalize first letter of each word
-name = input("What's your name? ").strip().title()
+name = input("What's your name? ")
+name = name.strip().title()
 print(f"hello, {name}")
 
-# Demonstrates str functions
-name = input("What's your name? ").strip().title()
+# split() split a string into a list of substrings based on specified separator
+# By default, splits the string using spaces as the separator
+# you can specify a different separator within the parentheses of the split()
+name = input("What's your name? ")
 first, last = name.split(" ")
 print(f"hello, {first}")
 
