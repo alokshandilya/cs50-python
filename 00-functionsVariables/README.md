@@ -160,7 +160,7 @@
   ```
 
 - Functions take arguments that influence their behavior. If we look at the documentation for [`print`](https://docs.python.org/3/library/functions.html#print) you’ll notice we can learn a lot about the arguments that the print function takes.
-- Looking at this documentation, you’ll learn that the print function automatically includes a piece of code `end='\n'. This` \\n `indicates that the print function will automatically create a line break when run. The print function takes an argument called` end\` and the default is to create a new line.
+- Looking at this documentation, you’ll learn that the print function automatically includes a piece of code `end='\n'`. This \\n indicates that the print function will automatically create a line break when run. The print function takes an argument called `end` and the default is to create a new line.
 - However, we can technically provide an argument for `end` ourselves such that a new line is not created!
 - We can modify our code as follows:
 
