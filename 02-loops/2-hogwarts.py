@@ -5,17 +5,23 @@ print(students[0])
 print(students[1])
 print(students[2])
 
+print("#######")
+
 # Demonstrates iterating over a list
 students = ["Hermione", "Harry", "Ron"]
 
 for student in students:
     print(student)
 
+print("#######")
+
 # Demonstrates iterating over and indexing into a list
 students = ["Hermione", "Harry", "Ron"]
 
 for i in range(len(students)):
     print(i + 1, students[i])
+
+print("#######")
 
 # Demonstrates indexing into a dict
 students = {
@@ -30,6 +36,8 @@ print(students["Harry"])
 print(students["Ron"])
 print(students["Draco"])
 
+print("#######")
+
 # Demonstrates iterating over and index into a dict
 students = {
     "Hermione": "Gryffindor",
@@ -40,6 +48,8 @@ students = {
 
 for student in students:
     print(student, students[student], sep=", ")
+
+print("#######")
 
 # Demonstrates iterating over a list of dict objects
 students = [

@@ -3,9 +3,13 @@ print("#")
 print("#")
 print("#")
 
+print("-------")
+
 # Prints column of bricks using a loop
 for _ in range(3):
     print("#")
+
+print("-------")
 
 
 # Prints column of bricks using a function with a loop
@@ -20,6 +24,8 @@ def print_column(height):
 
 main()
 
+print("-------")
+
 
 # Prints column of bricks using a function with str multiplication
 def main2():
@@ -32,6 +38,8 @@ def print_column2(height):
 
 main2()
 
+print("-------")
+
 
 # Prints row of coins using a function with str multiplication
 def main3():
@@ -43,6 +51,8 @@ def print_row3(width):
 
 
 main3()
+
+print("-------")
 
 
 # Prints square of bricks using a function with nested loops
@@ -59,6 +69,8 @@ def print_square4(size):
 
 main4()
 
+print("-------")
+
 
 # Prints square of bricks using a function with a loop and str multiplication
 def main5():
@@ -71,6 +83,8 @@ def print_square5(size):
 
 
 main5()
+
+print("-------")
 
 
 # Prints square of bricks using a function with a loop and str multiplication
