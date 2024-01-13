@@ -8,7 +8,7 @@ Whereas CS50x itself focuses on computer science more generally as well as progr
 
 # Progress
 
-| Week | Topic                       | ✅ or ❌ |
+| Week | Topic                       | Progress |
 | ---- | --------------------------- | -------- |
 | 0    | functions, variables        | ✅       |
 | 1    | conditionals                | ✅       |
