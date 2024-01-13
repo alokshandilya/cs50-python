@@ -1,5 +1,4 @@
 # Compares multiple strings with if/elif/else
-
 name = input("What's your name? ")
 
 if name == "Harry":
@@ -14,7 +13,6 @@ else:
     print("Who?")
 
 # Uses or
-
 name = input("What's your name? ")
 
 if name == "Harry" or name == "Hermione" or name == "Ron":
@@ -25,7 +23,6 @@ else:
     print("Who?")
 
 # Uses match with case
-
 name = input("What's your name? ")
 
 match name:
@@ -41,7 +38,6 @@ match name:
         print("Who?")
 
 # Uses |
-
 name = input("What's your name? ")
 
 match name:
