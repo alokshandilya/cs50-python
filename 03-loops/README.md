@@ -240,7 +240,7 @@
 - Where a `list` is a list of multiple values, a `dict` associates a key with a value.
 - Considering the houses of Hogwarts, we might assign specific students to specific houses.
 
-  <!-- ![Harry Potter Names.](cs50pWeek2Slide17.png "Harry Potter Names.") -->
+  ![cs50pWeek2Slide17](https://github.com/alokshandilya/cs50-python/assets/77057272/8dc35abc-3cfd-4b96-bcae-9ffe77d4c484)
 
 - We could use `list`s alone to accomplish this:
 
@@ -335,7 +335,7 @@
 
 - What if we have more information about our students? How could we associate more data with each of the students?
 
-  <!-- ![Harry Potter Names.](cs50pWeek2Slide18.png "Harry Potter Names.") -->
+  ![cs50pWeek2Slide18](https://github.com/alokshandilya/cs50-python/assets/77057272/e595daef-6a61-498f-8f23-20471aa07ca3)
 
 - You can imagine wanting to have lots of data associated with multiple keys. Enhance your code as follows:
 
@@ -372,7 +372,7 @@
 
 - Remember that the classic game Mario has a hero jumping over bricks. Let’s create a textual representation of this game.
 
-  <!-- ![Mario Block.](cs50pWeek2Slide21.png "Mario Block.") -->
+  ![cs50pWeek2Slide21](https://github.com/alokshandilya/cs50-python/assets/77057272/d40b520a-eefd-4791-8b91-b21c7a9b38a3)
 
 - Begin coding as follows:
 
@@ -428,7 +428,7 @@
 
 - Examining the slide below, notice how Mario has both rows and columns of blocks.
 
-  <!-- ![Mario Underground.](cs50pWeek2Slide24.png "Mario Underground.") -->
+  ![cs50pWeek2Slide24](https://github.com/alokshandilya/cs50-python/assets/77057272/a26f3428-4eb7-46dc-bdd9-4dd23b87dd01)
 
 - Consider: How could we implement both rows and columns within our code? Modify your code as follows:
 
