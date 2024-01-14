@@ -1,6 +1,6 @@
 # Coke Machine
 
-![coke](https://github.com/alokshandilya/cs50-python/assets/77057272/9692d8a7-c424-4de0-941c-ad5ed81bada4 =200x400)
+<img src="https://github.com/alokshandilya/cs50-python/assets/77057272/9692d8a7-c424-4de0-941c-ad5ed81bada4" width="200" height="400" />
 
 Suppose that a machine sells bottles of Coca-Cola (Coke) for 50 cents and only accepts coins in these denominations: 25 cents, 10 cents, and 5 cents.
 
