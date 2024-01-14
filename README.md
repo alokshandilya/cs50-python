@@ -12,8 +12,8 @@ Whereas CS50x itself focuses on computer science more generally as well as progr
 | ---- | --------------------------- | -------- |
 | 0    | functions, variables        | ✅       |
 | 1    | conditionals                | ✅       |
-| 2    | loops                       | ⌛       |
-| 3    | exceptions                  | ❌       |
+| 2    | loops                       | ✅       |
+| 3    | exceptions                  | ⌛       |
 | 4    | libraries                   | ❌       |
 | 5    | unit tests                  | ❌       |
 | 6    | file I/O                    | ❌       |
