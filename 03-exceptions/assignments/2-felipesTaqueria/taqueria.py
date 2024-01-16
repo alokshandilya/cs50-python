@@ -16,12 +16,13 @@ def main():
     while True:
         try:
             item = input("Item: ").title().strip()
+            total += dict[item]
         except (EOFError, KeyboardInterrupt):
             print()
             break
+        except KeyError:
+            continue
         else:
-            if item in dict:
-                total += dict[item]
             print(f"Total: ${total:.2f}")
 
 
