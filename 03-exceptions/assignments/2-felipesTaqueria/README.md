@@ -26,7 +26,7 @@ In a file called `taqueria.py`, implement a program that enables a user to place
 
 - Note that you can detect when the user has inputted control-d by catching an [`EOFError`](https://docs.python.org/3/library/exceptions.html#EOFError) with code like:
 
-  ```
+  ```python
   try:
       item = input()
   except EOFError:
