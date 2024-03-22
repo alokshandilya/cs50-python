@@ -8,16 +8,16 @@ Whereas CS50x itself focuses on computer science more generally as well as progr
 
 # Progress
 
-| Week | Topic                       | Progress |
-| ---- | --------------------------- | -------- |
-| 0    | functions, variables        | ✅       |
-| 1    | conditionals                | ✅       |
-| 2    | loops                       | ✅       |
-| 3    | exceptions                  | ⌛       |
-| 4    | libraries                   | ❌       |
-| 5    | unit tests                  | ❌       |
-| 6    | file I/O                    | ❌       |
-| 7    | regular expressions         | ❌       |
-| 8    | object-oriented programming | ❌       |
-| 9    | et cetera                   | ❌       |
-| 10   | final project               | ❌       |
+| Week | Topic                       | Notes | Assignments |
+| ---- | --------------------------- | ----- | ----------- |
+| 0    | functions, variables        | ✅    | ✅          |
+| 1    | conditionals                | ✅    | ✅          |
+| 2    | loops                       | ✅    | ✅          |
+| 3    | exceptions                  | ✅    | ✅          |
+| 4    | libraries                   | ✅    | ⌛          |
+| 5    | unit tests                  | ✅    | ❌          |
+| 6    | file I/O                    | ✅    | ❌          |
+| 7    | regular expressions         | ❌    | ❌          |
+| 8    | object-oriented programming | ❌    | ❌          |
+| 9    | et cetera                   | ❌    | ❌          |
+| 10   | final project               | ❌    | ❌          |
