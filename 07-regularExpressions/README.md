@@ -108,11 +108,11 @@
     
     Notice that we don’t care what the username or domain is. What we care about is the pattern. `.+` is used to determine if anything is to the left of the email address and if anything is to the right of the email address. Running your code, typing in `malan@`, you’ll notice that the input is regarded as `invalid` as we would hope.
     
--   Had we used a regular expression `.*@.*` in our code above, you can visualize this as follows: ![State Machine.](cs50pWeek7Slide8.png "cs50pWeek7Slide8.png")
+-   Had we used a regular expression `.*@.*` in our code above, you can visualize this as follows: ![State Machine.](img/cs50pWeek7Slide8.png "cs50pWeek7Slide8.png")
     
     Notice the depiction of the `state machine` of our regular expression. On the left, the compiler begins evaluating the statement from left to right. Once we reach `q1` or question 1, the compiler reads time and time again based on the expression handed to it. Then, the state is changed looking now at `q2` or the second question being validated. Again, the arrow indicates how the expression will be evaluated time and time again based upon our programming. Then, as depicted by the double circle, the final state of state machine is reached.
     
--   Considering the regular expression we used in our code, `.+@.+`, you can visualize it as follows: ![State Machine.](cs50pWeek7Slide10.png "cs50pWeek7Slide10.png")
+-   Considering the regular expression we used in our code, `.+@.+`, you can visualize it as follows: ![State Machine.](img/cs50pWeek7Slide10.png "cs50pWeek7Slide10.png")
     
     Notice how `q1` is any character provided by the user, including ‘q2’ as 1 or more repetitions of characters. This is followed by the ‘@’ symbol. Then, `q3` looks for any character provided by the user, including `q4` as 1 or more repetitions of characters.
     
