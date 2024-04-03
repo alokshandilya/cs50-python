@@ -1,6 +1,6 @@
 # Bitcoin Price Index
 
-![Bitcoin logo](Bitcoin.svg.png)
+![Bitcoin logo](https://github.com/alokshandilya/cs50-python/assets/77057272/8d7ff592-c6ca-4a0a-886f-0b3abdeb3baa)
 
 [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin) is a form of digitial currency, otherwise known as [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency). Rather than rely on a central authority like a bank, Bitcoin instead relies on a distributed network, otherwise known as a [blockchain](https://en.wikipedia.org/wiki/Blockchain), to record transactions.
 
