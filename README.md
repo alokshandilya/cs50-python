@@ -15,7 +15,7 @@ Whereas CS50x itself focuses on computer science more generally as well as progr
 # Progress
 
 | Week | Topic                       | Notes | Assignments |
-| ---- | --------------------------- | ----- | ----------- |
+| :--: | --------------------------- | :---: | :---------: |
 | 0    | functions, variables        | ✅    | ✅          |
 | 1    | conditionals                | ✅    | ✅          |
 | 2    | loops                       | ✅    | ✅          |
